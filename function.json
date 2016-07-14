@@ -1,0 +1,6 @@
+{
+  "description": "Produces a PNG from SVG input",
+  "memory": 1024,
+  "timeout": 30,
+  "runtime": "nodejs4.3"
+}
